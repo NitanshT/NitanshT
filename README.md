@@ -8,7 +8,9 @@ I’m especially interested in the part of engineering where hardware, software,
 
 ## About Me
 
-I’m a Cyber Systems student at the **Technical University of Denmark (DTU)** with hands-on experience in:
+I’m a Cyber Systems student at the **Technical University of Denmark (DTU)** and currently work as a **Mission Control Engineer at DanSTAR Rocketry**, where I’ve been involved in state-machine design, protocol handling, simulator/tooling work, logging, and operational reliability.
+
+Alongside that, I’ve built hands-on projects in:
 
 - **Embedded systems** with ESP32, sensors, displays, and peripheral integration
 - **Python and MicroPython** for tooling, simulation, automation, and IoT
