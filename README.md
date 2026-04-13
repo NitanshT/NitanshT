@@ -1,6 +1,6 @@
 # Hi, I'm Nitansh :wave:
 
-**BSc General Engineering student at DTU (Cyber Systems)** building practical systems across **embedded/IoT, software tooling, telemetry, simulation, and reliability-focused engineering**.
+**BSc General Engineering student at DTU (Cyber Systems)** and **current Mission Control Engineer at DanSTAR Rocketry** building practical systems across **embedded/IoT, software tooling, telemetry, simulation, and reliability-focused engineering**.
 
 I’m especially interested in the part of engineering where hardware, software, and operations meet: **ESP32 systems, protocol-driven tooling, mission-control style software, debugging, and turning complex technical workflows into something clear and dependable**.
 
