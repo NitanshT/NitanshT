@@ -20,7 +20,8 @@ I’m especially interested in the part of engineering where hardware, software,
 ## Connect
 
 - **Email:** [s245144@dtu.dk](mailto:s245144@dtu.dk)
+- **Portfolio:** [nitanshthaker.com](https://www.nitanshthaker.com)
 - **LinkedIn:** [nitansh-thaker](https://www.linkedin.com/in/nitansh-thaker/)
-- **GitHub:** [github.com/NitanshT](https://github.com/NitanshT)
+
 
 Thanks for stopping by.
