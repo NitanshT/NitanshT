@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ba6f2802-2c64-4840-88ca-b59ed6b02e26" /># Hi, I'm Nitansh 👋
+## Hi, I'm Nitansh 👋
 
 I’m a **Cyber Systems engineering student at the Technical University of Denmark (DTU)** :denmark: , currently studying abroad at **HKUST** :hong_kong:.
 
