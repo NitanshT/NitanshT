@@ -1,6 +1,6 @@
 # Hi, I'm Nitansh 👋
 
-I’m a **Cyber Systems engineering student at the Technical University of Denmark (DTU)**, currently studying abroad at **HKUST**.
+I’m a **Cyber Systems engineering student at the Technical University of Denmark (DTU)** 🇩🇰 , currently studying abroad at **HKUST** 🇭🇰.
 
 I build systems where software must interact reliably with the physical world, from mission-control software and embedded devices to reinforcement-learning-based decision systems.
 
